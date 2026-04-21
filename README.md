@@ -23,7 +23,7 @@
 
 ### My Contributions
 
-Sole founder and lead developer — responsible for the full product lifecycle: architecture design, domain modelling (double-entry bookkeeping engine, approval workflows, multi-tenancy), frontend and backend implementation, business strategy, and customer-facing documentation.
+As a sole developer responsible for the full product lifecycle: architecture design, domain modelling (double-entry bookkeeping engine, approval workflows, multi-tenancy), frontend and backend implementation, business strategy, and customer-facing documentation.
 
 ### Outcomes & Learnings
 
