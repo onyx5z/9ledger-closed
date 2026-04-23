@@ -4,14 +4,14 @@
 
 ### What It Was
 
-9ledger combined a full-featured ERP system (Enterprise Resource Planning — software that manages core business processes like accounting, invoicing, and inventory) with an AI-powered automation layer called **Nexus Assistant**. The goal was to let businesses automate up to 90% of routine accounting work while keeping a human specialist in control of every final decision.
+9ledger combined a full-featured ERP system with an AI-powered automation layer called **Nexus Assistant**. The goal was to let businesses automate up to 90% of routine accounting work while keeping a human specialist in control of every final decision.
 
 ### Key Features
 
-- **Full accounting suite** — general ledger, accounts payable/receivable, bank reconciliation, VAT reporting, and fixed assets, built to Hungarian regulatory standards with native NAV (tax authority) integration
-- **Intelligent automation** — document OCR, automatic transaction classification, bank reconciliation suggestions, and journal entry recommendations powered by machine learning
-- **Supervised approval workflow** — a mandatory three-step process (Input → Specialist Review → Output) ensured that automation only assisted, never replaced, human judgment
-- **Multi-tenant architecture** — designed to serve both individual SMEs and accounting firms managing dozens of client companies from a single platform
+- **Full accounting suite**: general ledger, accounts payable/receivable, bank reconciliation, VAT reporting, and fixed assets, built to Hungarian regulatory standards with native NAV (tax authority) integration
+- **Intelligent automation**: document OCR, automatic transaction classification, bank reconciliation suggestions, and journal entry recommendations powered by machine learning
+- **Supervised approval workflow**: a mandatory three-step process (Input → Specialist Review → Output) ensured that automation only assisted, never replaced, human judgment
+- **Multi-tenant architecture**: designed to serve both individual SMEs and accounting firms managing dozens of client companies from a single platform
 
 ### Technical Highlights
 
@@ -29,5 +29,4 @@ Sole developer responsible for the full product lifecycle: architecture design, 
 
 - Designed and documented a production-grade accounting engine from first principles, including strict double-entry validation, immutable journal entries, and period-close locking
 - Architected a clean separation between the automation layer and the core ERP, so the system remained fully functional with or without AI assistance
-- Built an extensible, API-first platform capable of scaling from micro-businesses to mid-market firms and accounting practices
 - Gained deep experience in compliance-driven software design, Hungarian accounting regulation, and the challenges of building trust in automated financial tooling
